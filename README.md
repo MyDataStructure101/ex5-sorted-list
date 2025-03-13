@@ -27,7 +27,7 @@
   - Option 1: Write helper functions in each class that return values at specific indices, comparing them one by one.
   - Option 2: Create a function to convert a `SortedList` into a `SortedArray` (or vice versa) and then compare the arrays directly.
   - Option 3: Use operator overloading to compare the two data structures.
-  - Which method would be most efficient in terms of time complexity, and why?
+  - Which insert method would be most efficient in terms of time complexity, and why?
 
 ## Requirements:
 The driver program for each programming project should begin with "header comments" containing:
